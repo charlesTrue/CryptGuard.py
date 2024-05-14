@@ -1,0 +1,1 @@
+The goal of this project is to design a secure communication system between two parties that ensures confidentiality, integrity, and authenticity of messages. The system consists of two Python scripts, `sender.py` and `receiver.py`, which simulate the roles of a message sender and receiver respectively.
